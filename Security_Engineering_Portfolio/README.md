@@ -6,7 +6,7 @@ This repository documents hands-on projects completed as part of my journey into
 
 The projects simulate real-world security assessments and investigations using an isolated homelab environment.
 
-My focus is not simply exploiting vulnerabilities, but understanding security from end to end—how systems are attacked, detected, governed and improved.
+My focus is not simply exploiting vulnerabilities, but understanding security from end to end and demonstrating how systems are attacked, detected, governed and improved.
 
 # Labs include the following:
 
